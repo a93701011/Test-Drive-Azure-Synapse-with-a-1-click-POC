@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--amdevcs2zcwuxnb6ogpocws1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/09ba1f2e-4799-434c-9f88-6ca60b368ac8/resourceGroups/synapsepoc-1-click/providers/Microsoft.Synapse/workspaces/amdevcs2zcwuxnb6ogpocws1",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"amdevcs2zcwuxnb6ogpocws1-ondemand.ed7a7150-8c58-4d02-a88f-43d76c2a10d2.sql.azuresynapse.net"
+		]
+	}
+}
